@@ -1,0 +1,27 @@
+{
+  "name": "rajdut_cab",
+  "version": "1.0.0",
+  "description": "Rajdut cab || node.js backend",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "crypto": "^1.0.1",
+    "express": "^4.17.1",
+    "express-validator": "^6.2.0",
+    "fcm-call": "^2.0.0",
+    "fcm-node": "^1.5.2",
+    "firebase-admin": "^8.7.0",
+    "jsonwebtoken": "^8.5.1",
+    "multer": "^1.4.2",
+    "path": "^0.12.7",
+    "pg": "^7.12.1",
+    "pg-hstore": "^2.3.3",
+    "querystring": "^0.2.0",
+    "sequelize": "^5.21.2",
+    "util": "^0.12.1"
+  },
+  "devDependencies": {
+    "sequelize-cli": "^5.5.1"
+  }
+}
